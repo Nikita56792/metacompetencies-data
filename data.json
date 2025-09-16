@@ -43,8 +43,15 @@
       "period": "ноябрь-декабрь 2025",
       "category": "Рефлексия",
       "points": 12
+    },
+    {
+      "id": 5,
+      "studentId": 2,
+      "period": "ноябрь-декабрь 2025",
+      "category": "Креативность",
+      "points": 125
     }
   ],
   "adminPassword": "admin",
-  "lastUpdated": "2025-09-16T20:49:22.183Z"
+  "lastUpdated": "2025-09-16T20:49:25.230Z"
 }
