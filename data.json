@@ -1,6 +1,14 @@
 {
-  "students": [],
+  "students": [
+    {
+      "id": 1,
+      "name": "Вася Купкин Пупкин",
+      "group": "А10",
+      "username": "васякупкинпупкин",
+      "password": "password"
+    }
+  ],
   "scores": [],
   "adminPassword": "admin",
-  "lastUpdated": "2025-09-16T20:48:09.182Z"
+  "lastUpdated": "2025-09-16T20:48:27.549Z"
 }
