@@ -15,8 +15,15 @@
       "period": "сентябрь-октябрь 2025",
       "category": "Критическое мышление",
       "points": 1232
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Цифровая грамотность",
+      "points": 100
     }
   ],
   "adminPassword": "admin",
-  "lastUpdated": "2025-09-16T20:48:52.062Z"
+  "lastUpdated": "2025-09-16T20:48:55.293Z"
 }
