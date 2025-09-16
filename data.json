@@ -2,12 +2,119 @@
   "students": [
     {
       "id": 1,
-      "name": "F23 r2",
-      "group": "D",
-      "username": "f23r2",
+      "name": "Маша Петрова",
+      "group": "7А",
+      "username": "маша",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "Саша Иванов",
+      "group": "7А",
+      "username": "саша",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "Коля Сидоров",
+      "group": "7Б",
+      "username": "коля",
+      "password": "password"
+    },
+    {
+      "id": 4,
+      "name": "ds ",
+      "group": "a6",
+      "username": "ds",
       "password": "password"
     }
   ],
-  "scores": [],
-  "lastUpdated": "2025-09-16T15:10:11.118Z"
+  "scores": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Критическое мышление",
+      "points": 75
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Эмоциональный интеллект",
+      "points": 80
+    },
+    {
+      "id": 3,
+      "studentId": 1,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Командная работа",
+      "points": 85
+    },
+    {
+      "id": 4,
+      "studentId": 1,
+      "period": "ноябрь-декабрь 2025",
+      "category": "Критическое мышление",
+      "points": 85
+    },
+    {
+      "id": 5,
+      "studentId": 1,
+      "period": "ноябрь-декабрь 2025",
+      "category": "Эмоциональный интеллект",
+      "points": 75
+    },
+    {
+      "id": 6,
+      "studentId": 1,
+      "period": "ноябрь-декабрь 2025",
+      "category": "Командная работа",
+      "points": 90
+    },
+    {
+      "id": 7,
+      "studentId": 2,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Критическое мышление",
+      "points": 65
+    },
+    {
+      "id": 8,
+      "studentId": 2,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Эмоциональный интеллект",
+      "points": 70
+    },
+    {
+      "id": 9,
+      "studentId": 2,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Командная работа",
+      "points": 75
+    },
+    {
+      "id": 10,
+      "studentId": 3,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Критическое мышление",
+      "points": 80
+    },
+    {
+      "id": 11,
+      "studentId": 3,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Эмоциональный интеллект",
+      "points": 85
+    },
+    {
+      "id": 12,
+      "studentId": 3,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Командная работа",
+      "points": 90
+    }
+  ],
+  "adminPassword": "admin",
+  "lastUpdated": "2025-09-16T20:47:44.381Z"
 }
