@@ -1,57 +1,6 @@
 {
-  "students": [
-    {
-      "id": 1,
-      "name": "Вася Купкин Пупкин",
-      "group": "А10",
-      "username": "васякупкинпупкин",
-      "password": "password"
-    },
-    {
-      "id": 2,
-      "name": "ООО РайгОр Строй",
-      "group": "А10",
-      "username": "ооорайгорстрой",
-      "password": "password"
-    }
-  ],
-  "scores": [
-    {
-      "id": 1,
-      "studentId": 1,
-      "period": "сентябрь-октябрь 2025",
-      "category": "Критическое мышление",
-      "points": 1232
-    },
-    {
-      "id": 2,
-      "studentId": 1,
-      "period": "сентябрь-октябрь 2025",
-      "category": "Цифровая грамотность",
-      "points": 100
-    },
-    {
-      "id": 3,
-      "studentId": 1,
-      "period": "сентябрь-октябрь 2025",
-      "category": "Рефлексия",
-      "points": 75
-    },
-    {
-      "id": 4,
-      "studentId": 2,
-      "period": "ноябрь-декабрь 2025",
-      "category": "Рефлексия",
-      "points": 12
-    },
-    {
-      "id": 5,
-      "studentId": 2,
-      "period": "ноябрь-декабрь 2025",
-      "category": "Креативность",
-      "points": 125
-    }
-  ],
+  "students": [],
+  "scores": [],
   "adminPassword": "admin",
-  "lastUpdated": "2025-09-16T20:49:25.230Z"
+  "lastUpdated": "2025-09-17T07:30:37.405Z"
 }
