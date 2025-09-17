@@ -6,30 +6,9 @@
       "group": "А7",
       "username": "прр",
       "password": "password"
-    },
-    {
-      "id": 2,
-      "name": "Никита Сыздыков",
-      "group": "ИОП ИТ/2",
-      "username": "никитасыздыков",
-      "password": "password"
     }
   ],
   "scores": [
-    {
-      "id": 1,
-      "studentId": 2,
-      "period": "сентябрь-октябрь 2025",
-      "category": "Командная работа",
-      "points": 100
-    },
-    {
-      "id": 2,
-      "studentId": 2,
-      "period": "сентябрь-октябрь 2025",
-      "category": "Критическое мышление",
-      "points": 50
-    },
     {
       "id": 3,
       "studentId": 1,
@@ -49,5 +28,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-17T11:26:33.148Z"
+  "lastUpdated": "2025-09-17T11:37:07.179Z"
 }
