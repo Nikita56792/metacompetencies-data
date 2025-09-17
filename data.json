@@ -36,11 +36,18 @@
       "period": "сентябрь-октябрь 2025",
       "category": "Эмоциональный интеллект",
       "points": 10
+    },
+    {
+      "id": 4,
+      "studentId": 1,
+      "period": "сентябрь-октябрь 2025",
+      "category": "Рефлексия",
+      "points": 100
     }
   ],
   "adminCredentials": {
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-17T11:26:14.249Z"
+  "lastUpdated": "2025-09-17T11:26:33.148Z"
 }
