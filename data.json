@@ -8,10 +8,18 @@
       "password": "password"
     }
   ],
-  "scores": [],
+  "scores": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "date": "2025-09-12",
+      "category": "Критическое мышление",
+      "points": 2
+    }
+  ],
   "adminCredentials": {
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-18T13:31:22.032Z"
+  "lastUpdated": "2025-09-18T13:32:08.245Z"
 }
