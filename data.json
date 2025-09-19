@@ -15,11 +15,18 @@
       "date": "2025-09-19",
       "category": "Командная работа",
       "points": 2
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "date": "2025-09-19",
+      "category": "Цифровая грамотность",
+      "points": 2
     }
   ],
   "adminCredentials": {
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T14:03:24.564Z"
+  "lastUpdated": "2025-09-19T14:03:27.644Z"
 }
