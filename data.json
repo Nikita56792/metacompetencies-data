@@ -1,13 +1,6 @@
 {
   "students": [
     {
-      "id": 1,
-      "name": "r f ",
-      "group": "А7",
-      "username": "rf",
-      "password": "password"
-    },
-    {
       "id": 2,
       "name": "Никита Сыздыков",
       "group": "ИОП ИТ 2025/2",
@@ -15,18 +8,10 @@
       "password": "password"
     }
   ],
-  "scores": [
-    {
-      "id": 1,
-      "studentId": 1,
-      "date": "2025-09-12",
-      "category": "Критическое мышление",
-      "points": 2
-    }
-  ],
+  "scores": [],
   "adminCredentials": {
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T14:02:41.810Z"
+  "lastUpdated": "2025-09-19T14:02:45.974Z"
 }
