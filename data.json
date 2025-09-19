@@ -6,6 +6,13 @@
       "group": "А7",
       "username": "rf",
       "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "Никита Сыздыков",
+      "group": "ИОП ИТ 2025/2",
+      "username": "никитасыздыков",
+      "password": "password"
     }
   ],
   "scores": [
@@ -21,5 +28,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-18T13:32:08.245Z"
+  "lastUpdated": "2025-09-19T14:02:41.810Z"
 }
