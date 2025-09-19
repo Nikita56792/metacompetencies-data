@@ -2,9 +2,9 @@
   "students": [
     {
       "id": 2,
-      "name": "Никита Сыздыков",
+      "name": "Никитка Сыздыков",
       "group": "ИОП ИТ 2025/2",
-      "username": "никитасыздыков",
+      "username": "никиткасыздыков",
       "password": "password"
     }
   ],
@@ -13,5 +13,5 @@
     "login": "admin",
     "password": "admin"
   },
-  "lastUpdated": "2025-09-19T14:02:45.974Z"
+  "lastUpdated": "2025-09-19T14:02:48.224Z"
 }
